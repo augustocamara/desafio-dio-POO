@@ -22,11 +22,11 @@ public class Main {
         mentoria.setDescricao("Descrição mentoria Java");
         mentoria.setData(LocalDate.now());
 
-        /*System.out.println(curso1.toString());
+        System.out.println(curso1.toString());
         System.out.println(curso2.toString());
         System.out.println(mentoria.toString());
 
-         */
+
         Bootcamp bootcamp = new Bootcamp();
         bootcamp.setNome("Bootcamp Java");
         bootcamp.setDescricao("Descrição Bootcamp Java");
